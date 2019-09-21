@@ -2,7 +2,7 @@
 Aswer of arkademy_batch12 test
 
 Step to run 1.js :
-1. Run in terminal <code>git clone </code>
+1. Run in terminal <code>git clone https://github.com/HasymiMuhamad/arkademy_batch12.git</code>
 2. Run in terminal <code>cd arkademy_batch12 </code>
 3. Run in terminal <code> npm install </code>
 4. Run in terminal <code> node 1.js </code>
